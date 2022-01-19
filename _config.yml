@@ -1,1 +1,11 @@
 theme: jekyll-theme-minimal
+title: Nikhil Meghnani # your name (or website title) here
+#logo: "/profile.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ AWS Data Engineer
+  <br><br>
+  <a href="mailto:nikhilcse91@gmail.com">nikhilcse91@gmail.com </a>
+  <br>
+  <a href="https://in.linkedin.com/in/nikhil-meghnani/">LinkedIn Profile</a>
+  <br>
+  <a href="https://github.com/nikhilmeghnani/">Github</a> 
