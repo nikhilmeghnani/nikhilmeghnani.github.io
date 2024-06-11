@@ -1,8 +1,15 @@
-## Nikhil Meghnani
+## Data Engineer
 
-You can use the [editor on GitHub](https://github.com/nikhilmeghnani/nikhilmeghnani.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Big Data Technologies: Apache Spark/ PySpark, Delta Lake.
+Cloud: Azure, AWS: S3, EMR, Glue, MWAA Airflow, Redshift, Athena, IAM, Lambda.
+Programming Languages: Python, Java.
+Repository System: GIT with GitHub, BitBucket.
+IDE/ Tools: Pycharm, Jupyter Notebook, Eclipse.
+Databases and Tools: MYSQL, DBeaver, MYSQL Workbench.
+Build Tools: GitHub Actions, Jenkins.
+Platforms: Linux, Windows.
+Orchestration Tool: Apache Airflow(AWS MWAA).
+Learning and Knowledge: Knowledge on Azure Cloud including ADF, Blob Storage.
 
 ### Markdown
 
