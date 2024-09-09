@@ -1,6 +1,6 @@
-# Welcome to [Your Name]’s GitHub Page 🌐
+# Welcome to Nikhil Meghnani’s Data Engineering World 🌐
 
-Hi there! I'm [Your Name], a passionate [your profession or role] focused on [your specialty, e.g., web development, data science, open-source contributions]. Here you’ll find a showcase of my projects, contributions, and technical writings.
+Hi there! I'm Nikhil Meghnani, a passionate Cloud Data Engineer
 
 ---
 
@@ -45,16 +45,5 @@ I'm always open to new opportunities and collaborations. Feel free to reach out 
 
 ---
 
-## 👨‍💻 About Me
-
-I’m a [short bio about yourself, e.g., self-taught developer with a passion for creating impactful software solutions]. I believe in continuous learning and am always looking to expand my skill set.
-
----
-
-### 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
----
 
 Thanks for stopping by! Explore my work, and don't hesitate to reach out if you want to collaborate or just chat about tech.
